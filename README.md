@@ -4,11 +4,11 @@ My grandfather always predicted how old people would get, and right before he pa
 
 In honor of my grandfather's memory we will write a function using his formula!
 
-Take a list of ages when each of your great-grandparent died.
-Multiply each number by itself.
-Add them all together.
-Take the square root of the result.
-Divide by two.
+- Take a list of ages when each of your great-grandparent died.
+- Multiply each number by itself.
+- Add them all together.
+- Take the square root of the result.
+- Divide by two.
 
 # Dojo extract file name (Niveau 6)
 
@@ -53,7 +53,7 @@ so that overlapping solutions are (not) counted. If the searchText is empty, it 
 
 # Dojo Upload de Fichier
 
-## Coté Frontend:
+## Coté Frontend
 
 https://github.com/SoAanyip/React-FileUpload
 
@@ -70,12 +70,12 @@ Voici les identifiants de l'application Firebase:
 ```
 // Initialize Firebase
 var config = {
-apiKey: "AIzaSyBRCC4KdTit73xre8WLdZ3XLI1yBoc6sm4",
-authDomain: "routedesvinsmobile.firebaseapp.com",
-databaseURL: "https://routedesvinsmobile.firebaseio.com",
-projectId: "routedesvinsmobile",
-storageBucket: "routedesvinsmobile.appspot.com",
-messagingSenderId: "92180665710"
+    apiKey: "AIzaSyBRCC4KdTit73xre8WLdZ3XLI1yBoc6sm4",
+    authDomain: "routedesvinsmobile.firebaseapp.com",
+    databaseURL: "https://routedesvinsmobile.firebaseio.com",
+    projectId: "routedesvinsmobile",
+    storageBucket: "routedesvinsmobile.appspot.com",
+    messagingSenderId: "92180665710"
 };
 firebase.initializeApp(config);
 ```
@@ -96,7 +96,7 @@ https://firebase.google.com/docs/auth/web/start
 Basic Algorithm Scripting: Slice and Splice
 You are given two arrays and an index.
 
-Use the array methods slice and splice to copy each element of the first array into the second array, in order.
+Use the array methods _slice and splice_ to copy each element of the first array into the second array, in order.
 
 Begin inserting elements at index n of the second array.
 
